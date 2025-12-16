@@ -1,0 +1,6 @@
+Source: https://example.com
+Runtime: 0s
+Files:
+ - index.html
+ - metadata.json
+ - manifest.json
